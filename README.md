@@ -15,7 +15,7 @@
    			SerialNum1 = BIL-BPA Soil
    			Break
 
-   The text after `Case-` is the iButton serial number. The text after `SerialNum1 = "`is the human-readable name you
+   The text after `Case-` is the iButton serial number. The text after `SerialNum1 = `is the human-readable name you
    want to give that iButton. Edit this block of `Case` statements to give your iButtons names. For example, to name
    an iButton D1234567890000000 as "Site 2 Air Temperature", your case statement would be:
 
